@@ -6,4 +6,5 @@
 ######################################################################
 
 # example - Hosting Provider
-Autisme - Host
+Autisme - Hosting Provider
+MetalClone - Hosting Provider
